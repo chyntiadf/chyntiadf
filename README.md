@@ -1,5 +1,7 @@
 ### Hi there 👋
-# Hi I'm Dewi Fortuna
+### Hi I'm Dewi Fortuna
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chyntiadf)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **chyntiadf/chyntiadf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
