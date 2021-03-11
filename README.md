@@ -2,7 +2,7 @@
 ### Hi I'm Dewi Fortuna
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chyntiadf&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyntiadf&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyntiadf&layout=compact&theme=radical)
 
 
 <!--
