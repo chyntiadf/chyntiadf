@@ -1,9 +1,14 @@
 ### Hi there 👋
 ### Hi I'm Dewi Fortuna
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chyntiadf&hide=contribs,prs)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chyntiadf&count_private=true)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chyntiadf&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chyntiadf&repo=convoychat" />
+</a>
 <!--
 **chyntiadf/chyntiadf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
