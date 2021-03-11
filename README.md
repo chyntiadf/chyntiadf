@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Chyntia Dewi Fortuna, I am an undergraduate student in year four of Computer Science and Statistics at Binus University. I come from a solid soft skills and technical background with a strong interest in data science and passion with programming.
+#### I'm Chyntia Dewi Fortuna, I am an undergraduate student in year four of Computer Science and Statistics at Binus University. I come from a solid soft skills and technical background with a strong interest in data science and passion with programming.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chyntiadf&show_icons=true&theme=omni)
